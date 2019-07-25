@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="sort_by_key">sort_by_key</string>
+    <string name="sort_by_pref">sort_by_pref</string>
+    <string name="popularity_desc">Popularity</string>
+    <string name="vote_average_desc">Vote Average</string>
+    <string name="favorite_movies">Favorite Movies</string>
+    <string name="videos">videos</string>
+    <string name="reviews">reviews</string>
+    <string name="movieTitle">Title:</string>
+    <string name="release_date">Release Date:</string>
+    <string name="vote_avrage">Vote Avrage:</string>
+    <string name="overview">Overview:</string>
+    <string name="trailers_tv">Trailers:</string>
+    <string name="reviews_tv">Reviews:</string>
+    <string-array name="sort_by_pref_entry_array">
+        <item>@string/popularity_desc</item>
+        <item>@string/vote_average_desc</item>
+        <item>@string/favorite_movies</item>
+    </string-array>
+
+    <string-array name="sort_by_pref_values_array">
+        <item>@string/popularity_desc</item>
+        <item>@string/vote_average_desc</item>
+        <item>@string/favorite_movies</item>
+    </string-array>
+</resources>
